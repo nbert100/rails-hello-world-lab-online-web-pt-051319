@@ -1,7 +1,6 @@
 class HelloWorldController < ApplicationController
  
- get '/hello_world' do
-   erb :hello_world
+ def "hello_world"
  end 
   
 
