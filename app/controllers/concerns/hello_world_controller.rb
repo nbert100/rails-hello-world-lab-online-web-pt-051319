@@ -1,6 +1,0 @@
-class HelloWorldController < ApplicationController
- 
-
-  
-
-end
